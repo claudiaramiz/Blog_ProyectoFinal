@@ -1,0 +1,30 @@
+.nav {
+    display: flex;
+    align-items: center;
+    background-color: #2e518b;
+    color: #ffffff;
+    width: 100%;
+    padding: 10px;
+    justify-content: space-between;
+    align-content: space-between;
+    margin: 10px;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    background-color: #2e518b;
+    color: #ffffff;
+    width: 100%;
+}
+
+.btn-primary {
+    border: 1px solid #ffffff;
+    padding: 10px;
+    color: #2e518b;
+    background-color: #ffffff;
+    text-decoration: none;
+    text-transform: capitalize;
+    border-radius: 15px;
+}

@@ -1,5 +1,5 @@
-import "bootstrap/dist/css/bootstrap.min.css"
-import React from "react"
+import React from "react";
+import './App.css';
 
 export default function (props) {
     return (

@@ -1,12 +1,12 @@
 import React from "react";
 
-function Blog() {
+function About() {
 
     return (
         <div class="container-lg">
             <div class="mb-3"><br /></div>
             <div class="mb-3">
-                <h1> Este es el blog </h1>
+                <h1> Acerca de</h1>
             </div>
             <div class="mb-3"><br /></div>
             <div class="mb-3"><br /></div>
@@ -14,4 +14,4 @@ function Blog() {
     );
 }
 
-export default Blog;
+export default About;

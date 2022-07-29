@@ -1,4 +1,9 @@
-.App {
+body{
+  background-color: white;
+  contain: content;
+}
+
+.App{
   background-color: white;
 }
 
